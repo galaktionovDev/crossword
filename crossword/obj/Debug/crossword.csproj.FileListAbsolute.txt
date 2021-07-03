@@ -1,0 +1,51 @@
+C:\Users\Никита\source\repos\crossword\crossword\bin\Debug\crossword.exe.config
+C:\Users\Никита\source\repos\crossword\crossword\bin\Debug\crossword.exe
+C:\Users\Никита\source\repos\crossword\crossword\bin\Debug\crossword.pdb
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.Form1.resources
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.Properties.Resources.resources
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.exe
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.pdb
+C:\Users\Никита\source\repos\crossword\crossword\obj\Debug\crossword.Form2.resources
+C:\Users\Никита\source\repos\crossword\crossword\bin\Debug\puzzles\puzzle_1.txt
+C:\Users\Никита\source\repos\crossword\crossword\bin\Debug\puzzles\puzzle_2.txt
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\bin\Debug\puzzles\puzzle_1.txt
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\bin\Debug\crossword.exe.config
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\bin\Debug\crossword.exe
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\bin\Debug\crossword.pdb
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.csprojAssemblyReference.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.Form1.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.Form2.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.Properties.Resources.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.csproj.GenerateResource.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.csproj.CoreCompileInputs.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.exe
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.pdb
+C:\Users\Никита\OneDrive\Рабочий стол\crossword\crossword\obj\Debug\crossword.Form3.resources
+C:\Users\roman\Desktop\crossword\crossword\bin\Debug\puzzles\puzzle_1.txt
+C:\Users\roman\Desktop\crossword\crossword\bin\Debug\crossword.exe.config
+C:\Users\roman\Desktop\crossword\crossword\bin\Debug\crossword.exe
+C:\Users\roman\Desktop\crossword\crossword\bin\Debug\crossword.pdb
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.csprojAssemblyReference.cache
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.Form1.resources
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.Form2.resources
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.Form3.resources
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.Properties.Resources.resources
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.csproj.GenerateResource.cache
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.exe
+C:\Users\roman\Desktop\crossword\crossword\obj\Debug\crossword.pdb
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\bin\Debug\puzzles\puzzle_1.txt
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\bin\Debug\crossword.exe.config
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\bin\Debug\crossword.exe
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\bin\Debug\crossword.pdb
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.csprojAssemblyReference.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.Form1.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.Form2.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.Form3.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.Properties.Resources.resources
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.csproj.GenerateResource.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.csproj.CoreCompileInputs.cache
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.exe
+C:\Users\Никита\OneDrive\Рабочий стол\crossword1\crossword\obj\Debug\crossword.pdb
